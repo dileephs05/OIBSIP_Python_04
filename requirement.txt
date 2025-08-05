@@ -1,0 +1,15 @@
+requirement:
+requests
+pillow
+tk
+
+📦 Explanation:
+Package	Purpose
+requests	To make API calls to OpenWeatherMap
+pillow	For loading and displaying the background image
+tk	For creating the GUI using Tkinter (included in Python, but listed for completeness)
+
+🚀 How to Use:
+bash
+Copy code
+pip install -r requirements.txt
